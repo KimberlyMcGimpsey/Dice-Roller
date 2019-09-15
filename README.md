@@ -4,7 +4,7 @@ An Android application that simulates a dice roll.
 
 Submitted by: Kimberly McGimpsey
 
-Time spent: 7 hours
+Time spent: 12 hours
 
 ## User Stories
 
@@ -23,13 +23,13 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='dice_roller_demo.gif' title='DiceRoller animated demo' alt='DiceRoller demo' />
+<img src='Dice_Roller_Demo.gif' title='DiceRoller animated demo' alt='DiceRoller demo' />
 
 ## Notes
 
 Describe any challenges encountered while building the app.
 
-Only challenges was trying to see the text in the video, getting a warning that was not the same as on the video, and trying to get this on the GIT app.
+Only challenges was trying to see the text in the video, getting a warning that was not the same as on the video, and trying to get this on the GIT app. Updated this to say I had trouble changing the files name to match the names on here and it was troubling for me.
 
 
 ## License
